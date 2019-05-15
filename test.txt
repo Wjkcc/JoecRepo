@@ -1,1 +1,2 @@
 hhhssss
+String s=new String("SS");
